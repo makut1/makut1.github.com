@@ -1,10 +1,13 @@
 ---
-¡¡¡¡layout: default
-¡¡¡¡title: ÄãºÃ£¬ÊÀ½ç
-¡¡¡¡---
+layout: post
+title: nihao
+category : lessons
+tagline: "Supporting tagline"
+tags : [intro, beginner, jekyll, tutorial]
+---
 {% include JB/setup %}
-¡¡¡¡<h2>{{ page.title }}</h2>
+ã€€ã€€<h2>{{ page.title }}</h2>
 
-¡¡¡¡<p>ÎÒµÄµÚÒ»ÆªÎÄÕÂ</p>
+ã€€ã€€<p>æˆ‘çš„ç¬¬ä¸€ç¯‡æ–‡ç« </p>
 
-¡¡¡¡<p>{{ page.date | date_to_string }}</p>
+ã€€ã€€<p>{{ page.date | date_to_string }}</p>
