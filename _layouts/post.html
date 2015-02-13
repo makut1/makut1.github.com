@@ -17,7 +17,7 @@ layout: default
     {% endfor %}
   </span>
   <!-- BEGIN this would not work on any other domain -->
-  <span
+  <!--<span
     class           = "like-wrapper"
     like-shortname  = '{{ site.disqus }}'
     like-identifier = '{{ page.guid }}'
@@ -30,6 +30,8 @@ layout: default
     l.type = 'text/javascript'; l.async = true; l.src = 'http://www.like-btn.com/javascript/widget.js';
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(l);
   </script>
+  -->
+  
   <!-- END this would not work on any other domain -->
   {% endif %}
   </section>
