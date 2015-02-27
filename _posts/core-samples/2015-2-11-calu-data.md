@@ -1,7 +1,6 @@
 ---
 title: java算法和数据结构
 layout: post
-category : xue
 tagline: "Supporting tagline"
 tags : [算法和数据结构]
 ---

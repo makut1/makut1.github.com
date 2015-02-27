@@ -1,8 +1,7 @@
 ---
 layout: post
-category : xue
 tagline: "Supporting tagline"
-tags : [intro, beginner, jekyll, tutorial]
+tags : [java]
 ---
 {% include JB/setup %}
 

@@ -3,7 +3,7 @@ layout: post
 title: nihao
 category : lessons
 tagline: "Supporting tagline"
-tags : [intro, beginner, jekyll, tutorial]
+tags : [intro, beginner, jekyll]
 ---
 {% include JB/setup %}
 　　<h2>{{ page.title }}</h2>

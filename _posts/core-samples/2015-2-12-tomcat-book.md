@@ -10,9 +10,7 @@ tags : [tomcat]
 **tomcat**
 
 .
-tomcat记录：请求行：请求类型（通常是get或是post），被请求对象的路径与名称，以及浏览器预备使用的http协议的最高版本标号。如果url不包括文件名，则浏览器必须传递/,它会转换为对网站默认网页的请求。GET /t/170347 HTTP/1.1 Host: www.v2ex.com 。$开头的则表示输入的命令要启动程序.
-用requestDUmperValue来查看更详细的web通信流量，这是tomcat提供的一个工具，只要在server.
-xml中移除注释符号，或者在host或context中加入一段代码就可以.'
+tomcat记录：请求行：请求类型（通常是get或是post），被请求对象的路径与名称，以及浏览器预备使用的http协议的最高版本标号。如果url不包括文件名，则浏览器必须传递/,它会转换为对网站默认网页的请求。GET /t/170347 HTTP/1.1 Host: www.v2ex.com 。$开头的则表示输入的命令要启动程序.用requestDUmperValue来查看更详细的web通信流量，这是tomcat提供的一个工具，只要在server.xml中移除注释符号，或者在host或context中加入一段代码就可以.'
 
 >tomcat启动一闪而过的原因：在这台机器上，在eclipse中配置了tomcat所使用的jdk为1.7版本的，而在本机上用的jdk为1.6的，而且在server.xml中会自动更新<context>内容，因为这是eclipse给造成的。在eclipse中把tomcat中所配置的项目都给移除掉，在启动tomcat时，就可以再启动，一闪而过的问题就给解决了。这可能就是jdk的版本不同造成的。
 
