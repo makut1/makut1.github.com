@@ -1,11 +1,11 @@
----
-title: 阅读
-layout: post
-guid: urn:uuid:866af2a0-3fc7-4ced-839d-1839115b7176
-tagline: "Supporting tagline"
-tags : [读书]
----
-{% include JB/setup %}
+> ---
+> title: 阅读
+> layout: post
+> guid: urn:uuid:866af2a0-3fc7-4ced-839d-1839115b7176
+> tagline: "Supporting tagline"
+> tags : [读书]
+> ---
+> {% include JB/setup %}
 
 **枕上诗书闲处好**
 
