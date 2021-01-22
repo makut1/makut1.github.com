@@ -25,3 +25,8 @@ tags : [technology]
 11. platuml syntax check
 12. translation  翻译插件
 13. wakatime 统计编辑器使用时长
+14. [http client](https://www.jetbrains.com/help/idea/http-client-in-product-code-editor.html?_ga=2.16932538.20971130.1611316722-257289444.1579406224)  提供从代码编辑器编写和执行 HTTP 请求的能力
+
+Q.如何查找一些插件的用法？
+
+A.可以在idea的插件市场进行搜索，[idea marketplace](https://plugins.jetbrains.com/search)
