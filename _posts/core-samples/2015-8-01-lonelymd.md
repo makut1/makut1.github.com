@@ -3,7 +3,7 @@ title: 深夜里的路灯是孤独的吗？
 layout: post
 guid: urn:uuid:866af2a0-3fc7-4ced-839d-1839115b7176
 tagline: "Supporting tagline"
-tags : [札记]
+tags : [杂谈]
 ---
 {% include JB/setup %}
 
