@@ -57,10 +57,10 @@ class Person implements Comparable<Person> {
 
 实际项目开发中使用如下：
 
-![image-20210222163002567](D:\iqiyicode\makut1.github.com\media\files\image-20210222163002567.png)
+![image-20210222163002567](/media/files/image-20210222163002567.png)
 
-![image-20210222163304076](D:\iqiyicode\makut1.github.com\media\files\image-20210222163304076.png)
+![image-20210222163304076](/media/files/image-20210222163304076.png)
 
-![image-20210222163454513](D:\iqiyicode\makut1.github.com\media\files\image-20210222163454513.png)
+![image-20210222163454513](/media/files/image-20210222163454513.png)
 
   在日常工作开发过程中，减少代码量，在实现前多想想哪些知识点可以应用到实际项目中，别不懂得灵活变通，尽量做到抽象。
