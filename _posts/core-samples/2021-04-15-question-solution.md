@@ -22,3 +22,7 @@ tags : [technology]
 
 可以使用搜索语句：**<u>site:</u>** tech.meituan.com 你要搜索的内容
 
+##### 如何保存你喜欢的网站icon？
+
+https://weibo.com/favicon.ico，一般在该网站的后面添加favicon.ico即可获取icon。
+
